@@ -10,7 +10,7 @@ In my opinion
 Are the above points possible? Not in my head, nor should it be in yours!
 
 ## **Skill Tree of Life**
-In this "still time-limited" life, I'd have never expected to choose the path of such an exciting, interesting, limitless, intriguing, and challenging adventure into the tech world! I'm grateful for the experience acquired on the way through studying, meeting the different minded people, and other experience. I potrait this set of knowledge on the below table with the max level of 5 🚀.
+In this "still time-limited" life, I'd have never expected to choose the path of such an exciting, interesting, limitless, intriguing, and challenging adventure into the tech world! I'm grateful for the experience acquired along the way through studying, meeting the different minded people, and other experience. I potrait this set of knowledge on the below table with the max level of 5 🚀.
 
 * Software Engineering
 
