@@ -19,27 +19,27 @@ In this "still time-limited" life, I'd have never expected to choose the path of
   `Python` | Programming Language | 🚀🚀🚀🚀
   `C++` | Programming Language | 🚀🚀
   `Rust` | Programming Language | 🚀🚀
-  `Java Script` | Programming Language | 🚀🚀🚀
+  `Java Script` | Programming Language | 🚀🚀
   `FastAPI` | Web Backend Framework | 🚀🚀🚀🚀
-  `Django` | Web Full-Stack Framework | 🚀🚀🚀
+  `Django` | Web Full-Stack Framework | 🚀🚀
   `Actix-Web` | Web Backend Framework | 🚀🚀
-  `React` | Web Frontend Framework | 🚀🚀
+  `React` | Web Frontend Framework | 🚀
   `PostgreSQL` | Relational Database | 🚀🚀🚀🚀
-  `SQLite` | Relational Database | 🚀🚀🚀🚀
+  `SQLite` | Relational Database | 🚀🚀🚀
   `MongoDB` | Non-Relational Database | 🚀
   `Docker` | DevOps | 🚀🚀🚀
-  `Kubernetes` | DevOps | 🚀🚀
-  `GitHub Actions` | DevOps | 🚀🚀🚀🚀
-  `Circle CI` | DevOps | 🚀🚀
-  `TensorFlow` | Machine Learning | 🚀🚀🚀🚀
+  `Kubernetes` | DevOps | 🚀
+  `GitHub Actions` | DevOps | 🚀🚀🚀
+  `Circle CI` | DevOps | 🚀
+  `TensorFlow` | Machine Learning | 🚀🚀🚀
   `PyTorch` | Machine Learning | 🚀🚀
   `Scikit-Learn` | Machine Learning | 🚀🚀
-  `NumPy` | Scientific Computation, Image Processing | 🚀🚀🚀
-  `SciPy` | Scientific Computation, Image Processing | 🚀🚀🚀
+  `NumPy` | Scientific Computation, Image Processing | 🚀🚀
+  `SciPy` | Scientific Computation, Image Processing | 🚀🚀
   `Matplotlib` | Data Visualization |  🚀🚀🚀
   `Plotly` | Data Visualization | 🚀🚀
-  `Pillow` | Image Processing | 🚀🚀🚀
-  `OpenCV` | Image Processing | 🚀🚀
+  `Pillow` | Image Processing | 🚀🚀
+  `OpenCV` | Image Processing | 🚀
   `Skimage` | Image Processing | 🚀
   `Terraform` | Cloud Computing, DevOps | 🚀
   `GCP` | Cloud Computing | 🚀🚀
