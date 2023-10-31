@@ -10,21 +10,21 @@ The more the rockets, the less I need to go to StackOverflow or GPT4 to copy-pas
 
 Name | Category | Level
 --|--|--
-`Python` | Programming Language | 🚀🚀🚀🚀
+`Python` | Programming Language | 🚀🚀🚀🚀🚀
 `C++` | Programming Language | 🚀🚀
-`Rust` | Programming Language | 🚀🚀
+`Rust` | Programming Language | 🚀🚀🚀
 `Java Script` | Programming Language | 🚀🚀
 `FastAPI` | Web Backend Framework | 🚀🚀🚀🚀
 `Django` | Web Full-Stack Framework | 🚀🚀
-`Actix-Web` | Web Backend Framework | 🚀🚀
-`React` | Web Frontend Framework | 🚀
-`PostgreSQL` | Relational Database | 🚀🚀🚀🚀
-`SQLite` | Relational Database | 🚀🚀🚀
+`Actix-Web` | Web Backend Framework | 🚀🚀🚀
+`PostgreSQL` | Relational Database | 🚀🚀🚀
+`SQLite3` | Relational Database | 🚀🚀🚀
+`SQLAlchemy` | Relational Database | 🚀🚀🚀
+`SQLx` | Relational Database | 🚀🚀
 `MongoDB` | Non-Relational Database | 🚀
 `Docker` | DevOps | 🚀🚀🚀
 `Kubernetes` | DevOps | 🚀
-`GitHub Actions` | DevOps | 🚀🚀🚀
-`Circle CI` | DevOps | 🚀
+`GitHub Actions` | DevOps | 🚀🚀
 `TensorFlow` | Machine Learning | 🚀🚀🚀
 `PyTorch` | Machine Learning | 🚀🚀
 `Scikit-Learn` | Machine Learning | 🚀🚀
@@ -36,8 +36,9 @@ Name | Category | Level
 `OpenCV` | Image Processing | 🚀
 `Skimage` | Image Processing | 🚀
 `Terraform` | Cloud Computing, DevOps | 🚀
-`GCP` | Cloud Computing | 🚀🚀
+`GCP` | Cloud Computing | 🚀🚀🚀
 `AWS` | Cloud Computing | 🚀🚀
+`Palantir` | Cloud Computing | 🚀
 
 ## **Sport**
 
